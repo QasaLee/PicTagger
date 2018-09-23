@@ -74,18 +74,18 @@
 		FB5CA9412157D0F2002E553E /* Views */ = {
 			isa = PBXGroup;
 			children = (
-				FB5CA9422157D0F8002E553E /* Storyboards& */,
+				FB5CA9422157D0F8002E553E /* Storyboards & Nibs */,
 			);
 			path = Views;
 			sourceTree = "<group>";
 		};
-		FB5CA9422157D0F8002E553E /* Storyboards& */ = {
+		FB5CA9422157D0F8002E553E /* Storyboards & Nibs */ = {
 			isa = PBXGroup;
 			children = (
 				FB5CA9322157D0A0002E553E /* Main.storyboard */,
 				FB5CA9372157D0A2002E553E /* LaunchScreen.storyboard */,
 			);
-			path = "Storyboards&";
+			path = "Storyboards & Nibs";
 			sourceTree = "<group>";
 		};
 		FB5CA9432157D12E002E553E /* Controllers */ = {
