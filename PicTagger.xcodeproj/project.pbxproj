@@ -55,13 +55,45 @@
 			isa = PBXGroup;
 			children = (
 				FB5CA92E2157D0A0002E553E /* AppDelegate.swift */,
-				FB5CA9302157D0A0002E553E /* ViewController.swift */,
-				FB5CA9322157D0A0002E553E /* Main.storyboard */,
-				FB5CA9352157D0A2002E553E /* Assets.xcassets */,
-				FB5CA9372157D0A2002E553E /* LaunchScreen.storyboard */,
-				FB5CA93A2157D0A2002E553E /* Info.plist */,
+				FB5CA9412157D0F2002E553E /* Views */,
+				FB5CA9432157D12E002E553E /* Controllers */,
+				FB5CA9402157D0D8002E553E /* Supporting Files */,
 			);
 			path = PicTagger;
+			sourceTree = "<group>";
+		};
+		FB5CA9402157D0D8002E553E /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				FB5CA9352157D0A2002E553E /* Assets.xcassets */,
+				FB5CA93A2157D0A2002E553E /* Info.plist */,
+			);
+			path = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		FB5CA9412157D0F2002E553E /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				FB5CA9422157D0F8002E553E /* Storyboards& */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FB5CA9422157D0F8002E553E /* Storyboards& */ = {
+			isa = PBXGroup;
+			children = (
+				FB5CA9322157D0A0002E553E /* Main.storyboard */,
+				FB5CA9372157D0A2002E553E /* LaunchScreen.storyboard */,
+			);
+			path = "Storyboards&";
+			sourceTree = "<group>";
+		};
+		FB5CA9432157D12E002E553E /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FB5CA9302157D0A0002E553E /* ViewController.swift */,
+			);
+			path = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
